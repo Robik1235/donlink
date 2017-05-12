@@ -25,6 +25,3 @@ if(a_to_vk)
 {a_to_vk.innerHTML+=a_to_va;}}
 function a_to_fa()
 {var a_to_vf=new Array();protected_links=protected_links.replace(" ","");a_to_vf=protected_links.split(",");return a_to_vf;}
-
-
-https://ads.id/forums/index.php?threads/hasilkan-uang-dengan-adsense-di-blog-downlaod.271100/
